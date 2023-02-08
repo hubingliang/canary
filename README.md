@@ -5,9 +5,7 @@
 
 让我们一起加入区块链频道的大家庭，共同探讨区块链的未来。
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+![](https://res.cloudinary.com/dewu7okpv/image/upload/v1675845822/blog/canary/logo_ihzvig.png)
 
 ## Tech Stack
 
