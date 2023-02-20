@@ -28,7 +28,10 @@ export default defineConfig({
       ],
     ],
     shikiConfig: {
-      theme: "one-dark-pro",
+      // theme: "one-dark-pro",
+      theme: "github-dark",
+      // theme: "css-variables",
+      // theme: "dracula-soft",
       wrap: true,
     },
     extendDefaultPlugins: true,
