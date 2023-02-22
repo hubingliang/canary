@@ -16,7 +16,7 @@ title: "About"
 
 ## Features
 
-Canary 致力于关注的主题
+Canary Wharf 致力于关注的主题
 
 - Solidity 安全教程
 - 区块链行业资讯
@@ -28,6 +28,6 @@ Canary 致力于关注的主题
 - sitemap & rss feed
 - highly customizable
 
-如果你喜欢 Canary，请给个 [Star](https://github.com/hubingliang/canary).
+如果你喜欢 Canary Wharf，请给个 [Star](https://github.com/hubingliang/canary).
 
 <!-- Or you can even give any feedback via my [email](mailto:brianhu.cn@gmail.com). -->
